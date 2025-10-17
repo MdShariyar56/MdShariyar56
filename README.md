@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=48&duration=4000&pause=1700&color=28F71A&center=true&vCenter=true&multiline=false&width=1350&height=100&lines=ASSALAMUALAIKUM++WARAHMATULLAH" alt="Murad GitHub" /></a>
+<a href="https://github.com/mdshariyar56"><img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=48&duration=4000&pause=1700&color=28F71A&center=true&vCenter=true&multiline=false&width=1350&height=100&lines=ASSALAMUALAIKUM++WARAHMATULLAH" alt="Shariyar GitHub" /></a>
 </div> 
 
 
@@ -21,16 +21,38 @@
 - 📫 How to reach me **shariyarkobir2005@gmail.com**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshariyar56&show_icons=true&locale=en&layout=compact" alt="mdshariyar56" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshariyar56&show_icons=true&locale=en" alt="mdshariyar56" /></p>
+<div align="center">
+  
+|🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️ |🔥 𝙶𝚒𝚝𝙷𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚛𝚎𝚊𝚔 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️
+|-|-|
+|<a href="https://github.com/mdshariyar56"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/mdshariyar56?cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=FFFBAEFF&Text=FFFFFF" height ="155px" width ="1000px" alt="Murad9288's GitHub Stats" /></a> | <a href="https://github.com/mdshariyar56"><img src="https://git-hub-streak-stats.vercel.app?user=mdshariyar56&theme=dark&Border=FFFBAEFF&mode=weekly&exclude_days=Sun%2CMon%2CWed%2CSat" alt="mdshariyar56" height ="160px" width ="1000px" /></a>|
+  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshariyar56&" alt="mdshariyar56" /></p>
+
+
+<div align="center">
+
+🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚄𝚜𝚎𝚍 𝙲𝚊𝚛𝚍 ⤵️
+ <p align ="center"><a href="https://github.com/mdshariyar56"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshariyar56&theme=tokyonight&Border=FFFBAEFF&layout=compact" height="140px" width = "1000px" /></a></p> 
+
+
+</div>
+
+
+
+
 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
+</br>
+<p align="center">
+<a href="https://github.com/mdshariyar56"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=20&duration=4000&pause=1700&color=03e3e3&center=true&vCenter=true&width=915&height=100&lines=%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9+%F0%9F%91%8B+%F0%9F%91%8B+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;-+THANKS+FOR+VISITING+MY+GITHUB+PROFILE+-;%F0%9F%92%9E++BEST++OF++LUCK++++%F0%9F%92%90;---+ALLAH+HAFEEZ+---" alt="Typing SVG" /></a>
+</p>
+
