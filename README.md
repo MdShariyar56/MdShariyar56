@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React.js,Node.js etc**
 
-- 👨‍💻 All of my projects are available at [https://mdshariyar56.github.io/Dev_Shariyar/](https://mdshariyar56.github.io/Dev_Shariyar/)
+- 👨‍💻 All of my projects are available at **https://shariyar-dev.vercel.app/**
 
 - 💬 Ask me about **Js,React.js,Node.js etc**
 
