@@ -8,7 +8,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Appexist Company & Personal Project**
 
@@ -25,21 +24,14 @@
 
 <div align="center">
   
-|🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️ |🔥 𝙶𝚒𝚝𝙷𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚛𝚎𝚊𝚔 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️
-|-|-|
-|<a href="https://github.com/MdShariyar56"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/MdShariyar56?cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=FFFBAEFF&Text=FFFFFF" height ="155px" width ="1000px" alt="MdShariyar56's GitHub Stats" /></a> | <a href="https://github.com/MdShariyar56"><img src="https://git-hub-streak-stats.vercel.app?user=MdShariyar56&theme=dark&Border=FFFBAEFF&mode=weekly&exclude_days=Sun%2CMon%2CWed%2CSat" alt="MdShariyar56" height ="160px" width ="1000px" /></a>|
-  
+🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️  
+
+<a href="https://github.com/MdShariyar56"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/MdShariyar56?cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=FFFBAEFF&Text=FFFFFF" height ="155px" width ="1000px" alt="MdShariyar56's GitHub Stats" /></a> 
 </div>
 
 
 
-<div align="center">
 
-🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚄𝚜𝚎𝚍 𝙲𝚊𝚛𝚍 ⤵️
- <p align ="center"><a href="https://github.com/MdShariyar56"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShariyar56&theme=tokyonight&Border=FFFBAEFF&layout=compact" height="140px" width = "1000px" /></a></p> 
-
-
-</div>
 
 
 
