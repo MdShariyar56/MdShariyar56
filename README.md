@@ -8,17 +8,15 @@
 
 
 
+- 🔭 Currently working as a **Frontend Developer at App-Exist**, building modern and responsive web applications.
 
-- 🔭 I’m currently working on **Appexist Company & Personal Project**
+- 🌱 Continuously learning **Next.js, advanced React.js concepts, and modern frontend practices**.
 
-- 🌱 I’m currently learning **React.js,Node.js etc**
+- 👨‍💻 Check out my projects and portfolio: **https://dev-shariyar-kobir05.web.app/**
 
-- 👨‍💻 All of my projects are available at **https://shariyar-dev.vercel.app/**
+- 💬 Feel free to ask me about **React.js, JavaScript, Tailwind CSS, REST API integration, and frontend development**.
 
-- 💬 Ask me about **Js,React.js,Node.js etc**
-
-- 📫 How to reach me **shariyarkobir2005@gmail.com**
-
+- 📫 Reach me at: **shahriyarkobir2005@gmail.com**
 
 
 
